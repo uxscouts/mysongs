@@ -79,6 +79,26 @@ uncensored software. It is incredibly lightweight, powerful, and highly customiz
 Cakewalk by BandLab: Completely free for Windows users. It used to be a premium $400 software (SONAR) and has 
 excellent mixing tools.
 
+3. Making Money: Streaming vs. Media Licensing
+
+The music industry has shifted entirely into two parallel lanes. For an artist making haunting, cinematic protest 
+songs of alienation, Media Licensing is where your real financial potential is.
+
+
+
++------------------------+------------------------------------+------------------------------------+
+
+| Revenue Stream         | How It Works                       | Financial Reality                  |
++------------------------+------------------------------------+------------------------------------+
+
+| Streaming              | Distribute to Spotify, Apple       | Low pay per stream ($0.003-$0.004).|
+| (Spotify/Apple)        | Music via a tool like DistroKid.   | Great for building a fanbase.     |
++------------------------+------------------------------------+------------------------------------+
+
+| Media Licensing        | Placing songs in movies, TV shows, | High payout ($500 to $10,000+ per  |
+| (Sync)                 | video games, and indie projects.   | placement). Best for moody music.  |
++------------------------+------------------------------------+------------------------------------+
+
 
 
 
