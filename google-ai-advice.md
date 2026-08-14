@@ -100,6 +100,32 @@ songs of alienation, Media Licensing is where your real financial potential is.
 +------------------------+------------------------------------+------------------------------------+
 
 
+How to break into Media Licensing (Sync):
+
+Music supervisors for TV shows (think moody dramas, indie films, or gritty NYC stories) are constantly looking for authentic, 
+raw acoustic music.
+
+Sync Libraries: You can submit your completed tracks to non-exclusive music libraries like Musicbed, Artlist, or Taxi.
+
+Retain Your Rights: Because you write and record everything yourself, you own 100% of the "Master" and 100% of the 
+"Publishing." This makes your music incredibly attractive to filmmakers because licensing it requires only one phone call—to you.
+
+4. Do People Still Buy CDs, Vinyl, and LPs?
+
+Yes, but the market has flipped completely.
+
+CDs: General music listeners do not buy them anymore, but fans of independent acoustic/protest music absolutely do at live 
+shows or via platforms like Bandcamp as a way to support the artist directly.
+
+LPs / Vinyl: Vinyl is experiencing a massive, multi-year resurgence. It is treated as a premium piece of art. If you know 
+exactly how you want to package it, a vinyl release is a beautiful goal.
+
+The Strategy: Use a service like Bandcamp to sell your physical merch. You can even use "On-Demand" vinyl pressing services 
+(like Qrates or Diggers Factory) later on, so you don't have to pay thousands of dollars upfront to get records pressed.
+
+
+
+
 
 
 --------------------------------------------------------
