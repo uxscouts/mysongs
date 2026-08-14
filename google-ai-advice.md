@@ -124,8 +124,74 @@ The Strategy: Use a service like Bandcamp to sell your physical merch. You can e
 (like Qrates or Diggers Factory) later on, so you don't have to pay thousands of dollars upfront to get records pressed.
 
 
+If you use a single-input interface, your vocal mic will pick up too much guitar, and you won’t be able to mix them 
+independently. With a two-input interface, you can mic your voice with one microphone and either mic your guitar 
+or plug it directly in.
+
+Here is the breakdown of the gear you need for that setup, your headphone situation, and the reality of making 
+money as an introverted performer.
+
+1. The Right 2-Input Interface
+
+Instead of the Solo, look for the Focusrite Scarlett 2i2.
+
+Why it works: The "2i2" means 2 inputs and 2 outputs. It allows you to plug a vocal mic into Input 1 and your 
+guitar cable (or a second mic) into Input 2.
+
+Budget tip: Look for a used or refurbished Focusrite Scarlett 2i2 (3rd Gen or 4th Gen) on platforms like Reverb or 
+eBay. You can regularly find 3rd Gen 2i2 interfaces for around $80 to $110.
+
+2. Your Headphone Setup
+
+Your plan to use the wire is perfect. Do not use Bluetooth for recording. Bluetooth introduces "latency" 
+(a slight audio delay), which will drive you crazy when you try to play in time.
 
 
+1. The "Closet Studio" Effect (Using Your Clothes)
+
+Your clothes racks are your secret weapon. Foam panels you buy online are often too thin, but dense clothing is an 
+incredible acoustic absorber.
+
+Position the Racks: Place your clothing racks directly behind you or to your immediate sides while you record.
+
+The Carpet Trick: Putting a thick carpet or heavy rug directly under your chair, the mic stands, and your feet will 
+stop the sound from bouncing off bare floorboards.
+
+The Blanket Shield: If the echo is still there, hang a heavy winter coat or a thick comforter over a door or a 
+camera tripod right behind the microphones.
+
+2. Dual-Microphone Setup for Your 2-Input Interface
+
+Since you need two microphones to record your voice and guitar simultaneously, you have a few ways to set this up. 
+Because you want to experiment, try these two distinct configurations:
+
+
+
+Setup A: The Standard Dynamic + Condenser (Best for Echo Isolation)
+
+Vocal Mic: Use a ** Shure SM58** or SM57 (around $99). These are "dynamic" microphones. They are less sensitive than 
+condenser mics, meaning they naturally ignore room echo and focus strictly on your lips.
+
+Guitar Mic: Use a Large-Diaphragm Condenser like the Audio-Technica AT2020 pointing at that 12th fret, about 6 to 8 inches away.
+
+
+
+Setup B: The Dual Condenser (Best for Maximum Detail)
+
+The Setup: Use two AT2020s (one for voice, one for the guitar).
+The Catch: Condenser mics are incredibly sensitive and will pick up the room's echo more easily. You will need to rely 
+heavily on your clothes racks and carpets for this setup, but it will capture every single nuance of that 100-year-old wood.
+
+3. The 3:1 Audio Rule for Technical Precision
+
+As a computer guy, you will appreciate the math of microphone placement. When recording two sources at once, you want to avoid 
+"phase cancellation" (where the sound waves cancel each other out and sound hollow).
+
+Always follow the 3:1 Rule: The distance between your two microphones should be at least three times the distance from each 
+microphone to its specific source.
+
+If your vocal mic is 4 inches from your mouth, your guitar mic should be at least 12 inches away from the vocal mic. 
+This keeps your tracks clean and easy to mix in the software.
 
 
 --------------------------------------------------------
