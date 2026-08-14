@@ -226,6 +226,24 @@ headphones, and belt out the vocals.
 This gives you 100% separation and studio perfection without forcing you to play like a robot.
 
 
+--------------------------------------------------------
+
+Microphone:
+
+Condenser mic (e.g., Behringer C-1) captures crisp vocal detail in a quiet room.
+
+Dynamic mic (e.g., Shure SM58) handles loud volumes and rejects background noise if your room is noisy.
+
+Headphones: Closed-back studio headphones (e.g., Samson SR850 or Behringer HPS5000) prevent sound from 
+leaking out of the earcups and into your microphone while recording.
+
+Cables & Stand: Standard 10-foot XLR microphone cable and a basic tripod or desktop mic stand.
+
+Software and Setup
+
+Recording Software (DAW): Use GarageBand for free if you use a Mac, or BandLab / Audacity / Reaper 
+(free or very cheap trial) if you use Windows.
+
 
 --------------------------------------------------------
 
