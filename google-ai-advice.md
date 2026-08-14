@@ -69,6 +69,16 @@ guitar. The Audio-Technica AT2020 (around $99 new, cheaper used) is an incredibl
 
 XLR Cable & Mic Stand: Grab a basic boom stand and a 10-foot XLR cable ($25 total).
 
+2. Free Music Mixing Software (DAWs)
+
+Because you are a tech guy, you will pick up the workflow of a DAW quickly. Here are the best free options:
+
+Reaper: Highly recommended for a tech background. It has an unexpiring free trial that lets you use the full, 
+uncensored software. It is incredibly lightweight, powerful, and highly customizable.
+
+Cakewalk by BandLab: Completely free for Windows users. It used to be a premium $400 software (SONAR) and has 
+excellent mixing tools.
+
 
 
 
