@@ -193,6 +193,39 @@ microphone to its specific source.
 If your vocal mic is 4 inches from your mouth, your guitar mic should be at least 12 inches away from the vocal mic. 
 This keeps your tracks clean and easy to mix in the software.
 
+Technique 1: Recording Both Live (Keeping the Raw Chemistry)
+
+If you decide to sing and play at the same time, your main technical battle is bleed (the vocals leaking into the guitar mic, 
+and the guitar leaking into the vocal mic).
+
+The "Figure-8" Trick: If you ever want to upgrade your vocal microphone, look for one with a "Figure-8" polar 
+pattern (like the AKG P420 or Audio-Technica AT2050). A Figure-8 microphone captures sound perfectly from the 
+front and back, but has a total dead zone on the sides, top, and bottom. If you point the face of the mic at 
+your mouth, the "dead zone" at the bottom of the mic will point directly at your guitar, completely blocking 
+out the guitar sound from your vocal track.
+
+Angling the Mics: With standard cardioid mics (like the AT2020), angle the vocal mic slightly upward toward 
+your nose (so its rear points down at the guitar) and angle the guitar mic slightly downward toward the 12th 
+fret (so its rear points up at your mouth).
+
+Technique 2: Separating Tracks (The "Scratch Track" Method)
+
+If you want to try separating them but hate the rigid feel of a metronome, bypass the metronome entirely 
+and use the Scratch Track Method.
+
+Record a "Scratch" Take: Set up one mic, and just sing and play the song naturally, flaws and all, straight 
+into the software. Don't worry about the acoustics or bleed.
+
+Record the Keeper Guitar: Put your headphones on and listen to that scratch track. Play your 100-year-old 
+parlor guitar along with your own recorded performance. Because you are playing to yourself, you will 
+naturally match your own unique, human tempo changes.
+
+Record the Keeper Vocals: Mute the scratch track, listen to your beautiful, clean guitar track in your 
+headphones, and belt out the vocals.
+
+This gives you 100% separation and studio perfection without forcing you to play like a robot.
+
+
 
 --------------------------------------------------------
 
